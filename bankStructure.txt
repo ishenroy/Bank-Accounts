@@ -1,0 +1,6 @@
+bank/
+│
+├── __init__.py
+├── account.py
+└── main.py
+#This structure keeps the code organized and allows for better maintainability and scalability.
